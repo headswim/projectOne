@@ -1,6 +1,9 @@
 body {
+  font: serif;
 }
 h1 {
+  color: red;
+  font-weight:bold;
 }
 h2 {
 }
